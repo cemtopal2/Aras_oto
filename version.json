@@ -1,0 +1,7 @@
+{
+  "version": 6,
+  "firmware": "firmware.bin",
+  "littlefs": "littlefs.bin",
+  "update_littlefs": false,
+  "force": false
+}
