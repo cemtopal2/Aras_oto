@@ -1,10 +1,10 @@
 {
-  "version": 7,
+  "version": 8,
   "firmware": "07112025_2.ino.bin",
   "littlefs": "littlefs.bin",
   "update_firmware": true,
   "update_littlefs": false,
-  "force": true,
-  "firmware_sha256": "cc9c54d56e575a7320614f87bb64f857a0895a6d5eaf336229d52385a403c53e",
+  "force": false,
+  "firmware_sha256": "27af5eb51d324755bb109df4439fc6ac28b848c031ee1847d410f475bbe535f0",
   "littlefs_sha256": "2170392e6699d29183aa69962a7d8f799cefe164fc13413dc69375adbe277932"
 }
