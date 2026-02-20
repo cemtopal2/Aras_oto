@@ -6,6 +6,6 @@
     "update_littlefs":  true,
     "force":  false,
     "firmware_sha256":  "2035a00f38b46c2ba01a272813bf35739493cee0e6fe6b8d46db25200d800988",
-    "littlefs_sha256":  "c07958342a0f0c1694fe18e529422987cf0f7dd986346ff6167b39a27354cf23"
+    "littlefs_sha256":  "8f560586c18300dff0847c9b3521d99779cdee48b4f0455ad5ce570d69c443db"
 }
 
