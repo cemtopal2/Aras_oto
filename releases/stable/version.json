@@ -1,13 +1,13 @@
 {
-    "version":  11,
+    "version":  12,
     "firmware":  "07112025_2.ino.bin",
     "littlefs":  "littlefs.bin",
     "update_firmware":  true,
-    "update_littlefs":  false,
+    "update_littlefs":  true,
     "force":  false,
-    "firmware_sha256":  "cc480406fc5a96f3abb820c42f1457541d0565d9c63263f104163c0b8cfef8e2",
-    "littlefs_sha256":  "b08c9a4d3c5e80956f7ef45cd5c535c5c970d2c16bc3187b9fdb55b81b6f1a07",
-    "build_id":  "V11-20260224-155100",
+    "firmware_sha256":  "6d7616536e608ccc046b7a7da6435f7bfd0bd3c59092aa89b97524f9b5ce42ae",
+    "littlefs_sha256":  "66fb9a8ec0f4e7c46dae8a80919419f82e5562d54b2e2eb7e572412a81ba1127",
+    "build_id":  "v12-20260224-174600",
     "devices_json_sha256":  "48fa89f47da1da2cc7766d9346eaae545b6f4dd01715d37fccda7f784608aa05",
-    "version_json_sha256":  "a67fcd32511bc7a834b3abb4399a2a2eab9d54bce85f94e4cbff2dc5752013dc"
+    "version_json_sha256":  "aea564be4f0895c00674bf739034b88b9e6d8b9eafc592c062d191493c0f053b"
 }
