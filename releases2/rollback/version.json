@@ -6,9 +6,9 @@
     "update_firmware":  true,
     "update_littlefs":  true,
     "force":  false,
-    "firmware_sha256":  "ae60e7e6e29e75dd773022386215701a2bb74e38cdc8f25c51ade5a12360291a",
-    "littlefs_sha256":  "55825836130ba33d6b10b217087aa5a74566d6f4afc1672e463ea847cf36b1ea",
-    "build_id":  "v2.4-20260327-190157",
+    "firmware_sha256":  "58878d35c07fc2530809be21a9f9668c0d543c8dda9b61b682c8099c7b49f8e9",
+    "littlefs_sha256":  "62c2415d90502782ecbd570f64a410838c9fbfcbad38173dfb78214c8741395e",
+    "build_id":  "v2.4-20260403-134501",
     "devices_json_sha256":  "ca722eaed8780a197a419b3a6f37e4967e0352286864b8e78306df3202fa9a15",
-    "version_json_sha256":  "0844c61cc4aa87db7903f90efa86db86255caecd6462e4e4a66f7c538b35f8dd"
+    "version_json_sha256":  "6864c44433f435f1da1e83dd8588e465c13f8c4c838f67971ba078daa33278d6"
 }
