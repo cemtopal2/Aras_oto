@@ -2,14 +2,16 @@
     "enabled":  true,
     "messages":  [
                      {
-                         "id":  "msg-20260409-114227-1",
+                         "id":  "msg-20260409-184226-1",
                          "enabled":  true,
-                         "message":  "MERHABA NASILSIN",
+                         "message":  "KURBAN BAYRAMINIZ KUTLU OLSUN",
                          "color":  "yellow",
+                         "display_mode":  "fixed",
+                         "always_on":  true,
                          "start_at":  "",
                          "end_at":  "",
                          "show_duration_sec":  20,
-                         "max_show_count":  10,
+                         "max_show_count":  0,
                          "show_once":  false
                      }
                  ]
