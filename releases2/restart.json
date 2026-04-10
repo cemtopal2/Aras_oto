@@ -1,6 +1,15 @@
 {
     "enabled":  true,
     "commands":  [
-
+                     {
+                         "id":  "restart-20260410-183617",
+                         "enabled":  true,
+                         "action":  "restart",
+                         "target_mode":  "devices",
+                         "device_ids":  [
+                                            "99D4DB1C"
+                                        ],
+                         "execute_at":  "2026-04-10T18:37:19"
+                     }
                  ]
 }
