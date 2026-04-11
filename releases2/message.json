@@ -17,6 +17,23 @@
                          "device_ids":  [
 
                                         ]
+                     },
+                     {
+                         "id":  "msg-20260411-165450-2",
+                         "enabled":  true,
+                         "message":  "Diyabet Kampı için Son tarih 26.05.2026",
+                         "color":  "yellow",
+                         "display_mode":  "scroll",
+                         "always_on":  true,
+                         "start_at":  "",
+                         "end_at":  "",
+                         "show_duration_sec":  20,
+                         "max_show_count":  0,
+                         "show_once":  false,
+                         "target_mode":  "devices",
+                         "device_ids":  [
+                                            "99D4DB1C"
+                                        ]
                      }
                  ]
 }
