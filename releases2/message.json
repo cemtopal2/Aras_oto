@@ -1,39 +1,6 @@
 {
     "enabled":  true,
     "messages":  [
-                     {
-                         "id":  "msg-20260411-111438-1",
-                         "enabled":  true,
-                         "message":  "merhaba nasılsınız iyi günler dilerim",
-                         "color":  "green",
-                         "display_mode":  "scroll",
-                         "always_on":  true,
-                         "start_at":  "",
-                         "end_at":  "",
-                         "show_duration_sec":  20,
-                         "max_show_count":  0,
-                         "show_once":  false,
-                         "target_mode":  "all",
-                         "device_ids":  [
 
-                                        ]
-                     },
-                     {
-                         "id":  "msg-20260411-120718-2",
-                         "enabled":  true,
-                         "message":  "cem topal cem topal cem topal cem topal kırklareli",
-                         "color":  "yellow",
-                         "display_mode":  "scroll",
-                         "always_on":  true,
-                         "start_at":  "",
-                         "end_at":  "",
-                         "show_duration_sec":  20,
-                         "max_show_count":  0,
-                         "show_once":  false,
-                         "target_mode":  "all",
-                         "device_ids":  [
-
-                                        ]
-                     }
                  ]
 }
