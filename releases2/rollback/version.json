@@ -1,15 +1,15 @@
 {
-    "version":  "3.1",
-    "version_code":  3001000,
+    "version":  "3.2",
+    "version_code":  3002000,
     "firmware":  "arasdiabetesdisplay.ino.bin",
     "littlefs":  "littlefs.bin",
     "update_firmware":  true,
     "update_littlefs":  true,
     "force":  false,
-    "firmware_sha256":  "ade427e9e2df8368b2567bea5a04600924110625cc34cd61b42cfc3557652d25",
-    "littlefs_sha256":  "8732c4aa7d01c5710dbbb78a37b64ddeab9602d8bc0fdfd0ef2204a229f6a782",
-    "build_id":  "v3.1-20260411-190705",
+    "firmware_sha256":  "c6ee2207aaa16c3476558c8764064f0c73f5604c31534aaa8b8841313b6ccb46",
+    "littlefs_sha256":  "60bd6e1b91e51adb096f2f8e99776b8c42b1468af27d9ce26cd4f989644771a5",
+    "build_id":  "v3.2-20260413-192743",
     "devices_json_sha256":  "ca722eaed8780a197a419b3a6f37e4967e0352286864b8e78306df3202fa9a15",
-    "version_json_sha256":  "c5ea8317f2a27424838aa6a17e39df0abb0b8b5f9a06988565679a8f465fe9c1",
+    "version_json_sha256":  "8000165d97cc7ba5106a7bd39062e28aa5a961d50dc77de63d8e6c31f3fb1c8d",
     "reset_config_after_update":  false
 }
