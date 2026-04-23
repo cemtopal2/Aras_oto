@@ -1,39 +1,6 @@
 {
     "enabled":  true,
     "messages":  [
-                     {
-                         "id":  "msg-20260414-141927-1",
-                         "enabled":  true,
-                         "message":  "CEM TOPAL",
-                         "color":  "yellow",
-                         "display_mode":  "fİxed",
-                         "always_on":  true,
-                         "start_at":  "",
-                         "end_at":  "",
-                         "show_duration_sec":  20,
-                         "max_show_count":  0,
-                         "show_once":  false,
-                         "target_mode":  "all",
-                         "device_ids":  [
 
-                                        ]
-                     },
-                     {
-                         "id":  "msg-20260414-142226-2",
-                         "enabled":  true,
-                         "message":  "KİRKLARELİ MERKEZ",
-                         "color":  "blue",
-                         "display_mode":  "scroll",
-                         "always_on":  true,
-                         "start_at":  "",
-                         "end_at":  "",
-                         "show_duration_sec":  20,
-                         "max_show_count":  0,
-                         "show_once":  false,
-                         "target_mode":  "devices",
-                         "device_ids":  [
-                                            "99D4DB1C"
-                                        ]
-                     }
                  ]
 }
