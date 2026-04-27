@@ -1,6 +1,22 @@
 {
     "enabled":  true,
     "messages":  [
+                     {
+                         "id":  "msg-20260427-164646-1",
+                         "enabled":  true,
+                         "message":  "KIRKLARELİ",
+                         "color":  "yellow",
+                         "display_mode":  "fixed",
+                         "always_on":  true,
+                         "start_at":  "",
+                         "end_at":  "",
+                         "show_duration_sec":  20,
+                         "max_show_count":  0,
+                         "show_once":  false,
+                         "target_mode":  "all",
+                         "device_ids":  [
 
+                                        ]
+                     }
                  ]
 }
