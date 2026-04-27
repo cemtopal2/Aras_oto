@@ -17,6 +17,23 @@
                          "device_ids":  [
 
                                         ]
+                     },
+                     {
+                         "id":  "msg-20260427-163413-2",
+                         "enabled":  true,
+                         "message":  "CEM TOPAL",
+                         "color":  "red",
+                         "display_mode":  "fİxed",
+                         "always_on":  false,
+                         "start_at":  "27.04.2026",
+                         "end_at":  "27.04.2026",
+                         "show_duration_sec":  40,
+                         "max_show_count":  2,
+                         "show_once":  true,
+                         "target_mode":  "all",
+                         "device_ids":  [
+
+                                        ]
                      }
                  ]
 }
