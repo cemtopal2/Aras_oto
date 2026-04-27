@@ -1,22 +1,6 @@
 {
     "enabled":  true,
     "messages":  [
-                     {
-                         "id":  "msg-20260423-131110-1",
-                         "enabled":  true,
-                         "message":  "23 NISAN ULUSAL EGEMENLIK VE COCUK BAYRAMI KUTLU OLSUN",
-                         "color":  "red",
-                         "display_mode":  "scroll",
-                         "always_on":  true,
-                         "start_at":  "",
-                         "end_at":  "",
-                         "show_duration_sec":  20,
-                         "max_show_count":  0,
-                         "show_once":  false,
-                         "target_mode":  "all",
-                         "device_ids":  [
 
-                                        ]
-                     }
                  ]
 }
