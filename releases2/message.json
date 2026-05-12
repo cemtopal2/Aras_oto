@@ -1,39 +1,6 @@
 {
-    "enabled":  true,
+    "enabled":  false,
     "messages":  [
-                     {
-                         "id":  "msg-20260427-164646-1",
-                         "enabled":  true,
-                         "message":  "KIRKLARELİ",
-                         "color":  "yellow",
-                         "display_mode":  "fixed",
-                         "always_on":  true,
-                         "start_at":  "",
-                         "end_at":  "",
-                         "show_duration_sec":  20,
-                         "max_show_count":  0,
-                         "show_once":  false,
-                         "target_mode":  "all",
-                         "device_ids":  [
 
-                                        ]
-                     },
-                     {
-                         "id":  "msg-20260427-164730-2",
-                         "enabled":  true,
-                         "message":  "cem topal",
-                         "color":  "red",
-                         "display_mode":  "fixed",
-                         "always_on":  false,
-                         "start_at":  "2026-04-27T00:00:00+03:00",
-                         "end_at":  "2026-04-27T23:59:59+03:00",
-                         "show_duration_sec":  40,
-                         "max_show_count":  5,
-                         "show_once":  false,
-                         "target_mode":  "all",
-                         "device_ids":  [
-
-                                        ]
-                     }
                  ]
 }
