@@ -1,6 +1,22 @@
 {
-    "enabled":  false,
+    "enabled":  true,
     "messages":  [
+                     {
+                         "id":  "msg-20260625-094902-1",
+                         "enabled":  true,
+                         "message":  "MERHABA",
+                         "color":  "green",
+                         "display_mode":  "fixed",
+                         "always_on":  false,
+                         "start_at":  "",
+                         "end_at":  "",
+                         "show_duration_sec":  120,
+                         "max_show_count":  5,
+                         "show_once":  true,
+                         "target_mode":  "all",
+                         "device_ids":  [
 
+                                        ]
+                     }
                  ]
 }
